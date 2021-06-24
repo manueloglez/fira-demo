@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fira-demo/static/css/main.3d30f858.chunk.css",
-    "main.js": "/fira-demo/static/js/main.1ae5daf9.chunk.js",
-    "main.js.map": "/fira-demo/static/js/main.1ae5daf9.chunk.js.map",
+    "main.css": "/fira-demo/static/css/main.decebe69.chunk.css",
+    "main.js": "/fira-demo/static/js/main.cfd74602.chunk.js",
+    "main.js.map": "/fira-demo/static/js/main.cfd74602.chunk.js.map",
     "runtime-main.js": "/fira-demo/static/js/runtime-main.67093b8b.js",
     "runtime-main.js.map": "/fira-demo/static/js/runtime-main.67093b8b.js.map",
     "static/css/2.c1e28d34.chunk.css": "/fira-demo/static/css/2.c1e28d34.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.8fa4cb1e.chunk.js.map": "/fira-demo/static/js/3.8fa4cb1e.chunk.js.map",
     "index.html": "/fira-demo/index.html",
     "static/css/2.c1e28d34.chunk.css.map": "/fira-demo/static/css/2.c1e28d34.chunk.css.map",
-    "static/css/main.3d30f858.chunk.css.map": "/fira-demo/static/css/main.3d30f858.chunk.css.map",
+    "static/css/main.decebe69.chunk.css.map": "/fira-demo/static/css/main.decebe69.chunk.css.map",
     "static/js/2.a930ff05.chunk.js.LICENSE.txt": "/fira-demo/static/js/2.a930ff05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67093b8b.js",
     "static/css/2.c1e28d34.chunk.css",
     "static/js/2.a930ff05.chunk.js",
-    "static/css/main.3d30f858.chunk.css",
-    "static/js/main.1ae5daf9.chunk.js"
+    "static/css/main.decebe69.chunk.css",
+    "static/js/main.cfd74602.chunk.js"
   ]
 }
