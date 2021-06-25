@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fira-demo/static/css/main.decebe69.chunk.css",
-    "main.js": "/fira-demo/static/js/main.0c546157.chunk.js",
-    "main.js.map": "/fira-demo/static/js/main.0c546157.chunk.js.map",
+    "main.js": "/fira-demo/static/js/main.87516c87.chunk.js",
+    "main.js.map": "/fira-demo/static/js/main.87516c87.chunk.js.map",
     "runtime-main.js": "/fira-demo/static/js/runtime-main.67093b8b.js",
     "runtime-main.js.map": "/fira-demo/static/js/runtime-main.67093b8b.js.map",
     "static/css/2.c1e28d34.chunk.css": "/fira-demo/static/css/2.c1e28d34.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.c1e28d34.chunk.css",
     "static/js/2.a930ff05.chunk.js",
     "static/css/main.decebe69.chunk.css",
-    "static/js/main.0c546157.chunk.js"
+    "static/js/main.87516c87.chunk.js"
   ]
 }
